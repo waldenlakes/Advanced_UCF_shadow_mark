@@ -1,2 +1,2 @@
 # Advanced_UCF_shadow_mark
-hello npu 1
+hello npu 1 2
